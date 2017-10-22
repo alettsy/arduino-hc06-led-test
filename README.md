@@ -1,4 +1,4 @@
-# ArduinoHC06-LED-fixed
+# ArduinoHC06-LED-new
 Control LED using HC-06 Bluetooth Module and Arduino Micro Pro/Nano
 
 Install the App.apk on your Android device
