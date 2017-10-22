@@ -10,3 +10,4 @@ NOTE: make sure that RX and TX (11, 12) are not connected while uploading your c
 
 # Wiring
 ![Screenshot](doc/wiring.png)
+<img src="doc/wiring.png">
