@@ -10,9 +10,9 @@ NOTE: make sure that RX and TX (11, 12) are not connected while uploading your c
 
 # Wiring
 
-<img src="doc/wiring.png" width="100">
+<img src="doc/wiring.png" width="600">
 
 # MIT App Inventor Code
 
-<img src="doc/layout.PNG" width=750>
-<img src="doc/blocks.PNG" width=750>
+<img src="doc/layout.PNG" width="400">
+<img src="doc/blocks.PNG" width="600">
