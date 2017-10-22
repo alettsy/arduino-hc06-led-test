@@ -17,10 +17,13 @@ void loop(){
 
   if (data == '1'){
     digitalWrite(ledPin, HIGH);
+    mySerial.println("ON");
   }
 
   else if (data == '2'){
     digitalWrite(ledPin, LOW);
+    mySerial.println("OFF");
   }
-}
 
+  data = '0';
+}
