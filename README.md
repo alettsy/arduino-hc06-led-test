@@ -9,4 +9,4 @@ Switch on the Arduino and run the App
 NOTE: make sure that RX and TX (11, 12) are not connected while uploading your code otherwise an error may occur
 
 # Wiring
-![Screenshot](doc/wiring.png | width=250 | height=250)
+![Screenshot](doc/wiring.png)
