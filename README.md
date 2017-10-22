@@ -14,5 +14,5 @@ NOTE: make sure that RX and TX (11, 12) are not connected while uploading your c
 
 # MIT App Inventor Code
 
-<img src="doc/layout.png" width=750>
-<img src="doc/blocks.png" width=750>
+<img src="doc/layout.PNG" width=750>
+<img src="doc/blocks.PNG" width=750>
