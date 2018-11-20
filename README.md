@@ -1,6 +1,7 @@
 # ArduinoHC06-LED-new
 Control LED using HC-06 Bluetooth Module and Arduino Micro Pro/Nano
 
+# Steps
 Install the App.apk on your Android device
 Wire up the Arduino to the HC-06 and LED
 Upload the code to the Arduino - make sure all the pins are correct
