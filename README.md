@@ -7,7 +7,7 @@ Wire up the Arduino to the HC-06 and LED <br />
 Upload the code to the Arduino - make sure all the pins are correct <br />
 Switch on the Arduino and run the App <br />
 <br />
-NOTE: make sure that RX and TX (11, 12) are not connected while uploading your code otherwise an error may occur
+WARNING: make sure that RX and TX (11, 12) are not connected while uploading your code otherwise an error may occur!
 
 # Wiring
 
